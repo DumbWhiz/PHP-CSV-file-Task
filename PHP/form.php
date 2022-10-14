@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Form</title>
-    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="stylesheet" href="../CSS/style.css">
 </head>
 <body>
 
-<form action="./PHP/user_data.php" method="POST" class="form">
+<form action="user_data.php" method="POST" class="form">
 <div class="heading">
     <h1>
         Register Here!
